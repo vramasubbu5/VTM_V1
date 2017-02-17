@@ -1,0 +1,2080 @@
+Archive member included because of file (symbol)
+
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+                              ./custom/lstr25/SRC/task3.o (Ql_FS_Open)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fota.o)
+                              ./custom/fota/src/fota_main.o (Ql_FOTA_Init)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+                              ./custom/lstr25/SRC/gpio.o (Ql_GPIO_Init)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+                              ./custom/fota/src/fota_main.o (Ql_GPRS_GetPDPContextId)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                              ./ril/src/ril_sms.o (LIB_SMS_IsValidHexStr)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(memory.o)
+                              ./ril/src/ril_bluetooth.o (Ql_MEM_Alloc)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_func.o)
+                              E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(memory.o) (api_notsup)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+                              ./ril/src/ril_bluetooth.o (Ql_Debug_Trace)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_aux.o)
+                              ./custom/config/sys_config.o (proc_reserved2)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+                              ./custom/config/sys_config.o (proc_reserved1)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+                              ./custom/lstr25/SRC/task2.o (Ql_SOC_Register)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                              ./ril/src/ril_location.o (Ql_atof)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(system.o)
+                              ./ril/src/ril_ftp.o (Ql_Sleep)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+                              ./custom/lstr25/SRC/main.o (Ql_OS_GetMessage)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(timer.o)
+                              ./custom/lstr25/SRC/main.o (Ql_Timer_Register)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+                              ./custom/lstr25/SRC/task1.o (Ql_UART_Register)
+E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ocpu_init.o)
+                              E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o) (_OCPU_InitUserMem)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+                              E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o) (memcpy)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+                              ./ril/src/ril_alarm.o (memset)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strstr.o)
+                              ./custom/lstr25/SRC/task1.o (strstr)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strtok.o)
+                              ./custom/lstr25/SRC/task1.o (strtok)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strtok_r.o)
+                              C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strtok.o) (__strtok_r)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-impure.o)
+                              C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strtok.o) (_impure_ptr)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memchr.o)
+                              C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strstr.o) (memchr)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcmp.o)
+                              C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strstr.o) (memcmp)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strchr.o)
+                              C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strstr.o) (strchr)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+                              E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o) (__aeabi_uidiv)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+                              E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o) (__aeabi_idiv)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+                              C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+                              ./custom/lstr25/SRC/task1.o (__aeabi_i2d)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivdf3.o)
+                              ./custom/lstr25/SRC/task1.o (__aeabi_dmul)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunsdfsi.o)
+                              ./custom/lstr25/SRC/task1.o (__aeabi_d2uiz)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+                              ./ril/src/ril_location.o (__aeabi_d2f)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubsf3.o)
+                              ./custom/lstr25/SRC/data.o (__aeabi_fadd)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivsf3.o)
+                              ./custom/lstr25/SRC/data.o (__aeabi_fmul)
+C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunssfsi.o)
+                              ./custom/lstr25/SRC/data.o (__aeabi_f2uiz)
+
+Allocating common symbols
+Common symbol       size              file
+
+u8servpassword      0x14              ./custom/lstr25/SRC/task4.o
+Ql_snprintf         0x4               E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+Ql_sprintf          0x4               E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+u8servportno        0xa               ./custom/lstr25/SRC/task4.o
+Ql_Debug_Trace      0x4               E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+SecureDataStringLen
+                    0x4               ./ril/src/ril_system.o
+st_glob_var         0xc               ./custom/lstr25/SRC/global.o
+u8servfilepath      0x14              ./custom/lstr25/SRC/task4.o
+st_gprs_data        0x5e0             ./custom/lstr25/SRC/task2.o
+Ql_sscanf           0x4               E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+st_rtc_cclk         0x15              ./custom/lstr25/SRC/global.o
+st_rec_hdr          0x14              ./custom/lstr25/SRC/data.o
+g_comingCall        0x124             ./ril/src/ril_telephony.o
+st_sys              0xa8              ./custom/lstr25/SRC/main.o
+st_ram_arraytemp    0x3ee             ./custom/lstr25/SRC/data.o
+st_ufs_data_buff    0x7d4             ./custom/lstr25/SRC/task3.o
+Fota_gprsCfg        0xb0              ./custom/fota/src/fota_main.o
+m_tcp_info          0x18              ./custom/lstr25/SRC/data.o
+Uart1Receive        0x1               ./custom/lstr25/SRC/data.o
+st_mc_info          0x14              ./custom/lstr25/SRC/task1.o
+st_gps_info         0x38              ./custom/lstr25/SRC/task1.o
+st_interval         0x4               ./custom/lstr25/SRC/main.o
+st_ram_array1       0x4b4             ./custom/lstr25/SRC/data.o
+m_tcp_state         0x1               ./custom/lstr25/SRC/data.o
+FotaConfig          0x10              ./custom/fota/src/fota_main.o
+ufs_data_ptr        0x4               ./custom/lstr25/SRC/data.o
+st_ram_array        0x3ee             ./custom/lstr25/SRC/data.o
+stestvalue          0x4               ./custom/lstr25/SRC/data.o
+sms_var             0x3ab             ./custom/lstr25/SRC/main.o
+u8servfilename      0x19              ./custom/lstr25/SRC/task4.o
+g_asConSMSBuf       0x119a            ./custom/lstr25/SRC/sms.o
+u8servusername      0x19              ./custom/lstr25/SRC/task4.o
+m_gprsCfg           0xb0              ./custom/lstr25/SRC/data.o
+st_gprsconfig       0x4e              ./custom/lstr25/SRC/task2.o
+st_gps_buff         0x64              ./custom/lstr25/SRC/task1.o
+m_task_evnt         0x14              ./custom/lstr25/SRC/main.o
+uart                0xee8             ./custom/lstr25/SRC/data.o
+st_globflags        0x3               ./custom/lstr25/SRC/global.o
+st_task1_cnt        0x4               ./custom/lstr25/SRC/global.o
+
+Discarded input sections
+
+ .text          0x00000000      0x540 ./ril/src/ril_alarm.o
+ .data          0x00000000        0x0 ./ril/src/ril_alarm.o
+ .bss           0x00000000        0x0 ./ril/src/ril_alarm.o
+ .rodata        0x00000000       0x50 ./ril/src/ril_alarm.o
+ .rodata.str1.4
+                0x00000000       0x90 ./ril/src/ril_alarm.o
+ .comment       0x00000000       0x31 ./ril/src/ril_alarm.o
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/ril_alarm.o
+ .data          0x00000000        0x0 ./ril/src/ril_atResponse.o
+ .bss           0x00000000        0x0 ./ril/src/ril_atResponse.o
+ .text          0x00000000      0x9f0 ./ril/src/ril_audio.o
+ .data          0x00000000        0x1 ./ril/src/ril_audio.o
+ .rodata.str1.4
+                0x00000000      0x16c ./ril/src/ril_audio.o
+ .data          0x00000000        0x0 ./ril/src/ril_custom.o
+ .data          0x00000000        0x0 ./ril/src/ril_ftp.o
+ .bss           0x00000000        0x0 ./ril/src/ril_ftp.o
+ .text          0x00000000      0x494 ./ril/src/ril_http.o
+ .data          0x00000000        0x0 ./ril/src/ril_http.o
+ .rodata        0x00000000       0x68 ./ril/src/ril_http.o
+ .rodata.str1.4
+                0x00000000       0x34 ./ril/src/ril_http.o
+ .bss           0x00000000        0x0 ./ril/src/ril_init.o
+ .text          0x00000000      0x2a8 ./ril/src/ril_location.o
+ .data          0x00000000        0x0 ./ril/src/ril_location.o
+ .bss           0x00000000        0x4 ./ril/src/ril_location.o
+ .rodata.str1.4
+                0x00000000       0x6c ./ril/src/ril_location.o
+ .comment       0x00000000       0x31 ./ril/src/ril_location.o
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/ril_location.o
+ .data          0x00000000        0x0 ./ril/src/ril_network.o
+ .bss           0x00000000        0x0 ./ril/src/ril_network.o
+ .data          0x00000000        0x0 ./ril/src/ril_sms.o
+ .text          0x00000000      0x800 ./ril/src/ril_system.o
+ .data          0x00000000        0x0 ./ril/src/ril_system.o
+ .bss           0x00000000        0x1 ./ril/src/ril_system.o
+ .rodata.str1.4
+                0x00000000       0x90 ./ril/src/ril_system.o
+ .comment       0x00000000       0x31 ./ril/src/ril_system.o
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/ril_system.o
+ COMMON         0x00000000        0x4 ./ril/src/ril_system.o
+ .text          0x00000000      0x2cc ./ril/src/ril_telephony.o
+ .data          0x00000000        0x0 ./ril/src/ril_telephony.o
+ .bss           0x00000000        0x0 ./ril/src/ril_telephony.o
+ .rodata.str1.4
+                0x00000000       0x48 ./ril/src/ril_telephony.o
+ .data          0x00000000        0x0 ./ril/src/ril_urc.o
+ .data          0x00000000        0x0 ./ril/src/ril_util.o
+ .bss           0x00000000        0x0 ./ril/src/ril_util.o
+ .text          0x00000000        0x0 ./example/example_adc.o
+ .data          0x00000000        0x0 ./example/example_adc.o
+ .bss           0x00000000        0x0 ./example/example_adc.o
+ .comment       0x00000000       0x31 ./example/example_adc.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_adc.o
+ .text          0x00000000        0x0 ./example/example_audio.o
+ .data          0x00000000        0x0 ./example/example_audio.o
+ .bss           0x00000000        0x0 ./example/example_audio.o
+ .comment       0x00000000       0x31 ./example/example_audio.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_audio.o
+ .text          0x00000000        0x0 ./example/example_bluetooth.o
+ .data          0x00000000        0x0 ./example/example_bluetooth.o
+ .bss           0x00000000        0x0 ./example/example_bluetooth.o
+ .comment       0x00000000       0x31 ./example/example_bluetooth.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_bluetooth.o
+ .text          0x00000000        0x0 ./example/example_call.o
+ .data          0x00000000        0x0 ./example/example_call.o
+ .bss           0x00000000        0x0 ./example/example_call.o
+ .comment       0x00000000       0x31 ./example/example_call.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_call.o
+ .text          0x00000000        0x0 ./example/example_clk.o
+ .data          0x00000000        0x0 ./example/example_clk.o
+ .bss           0x00000000        0x0 ./example/example_clk.o
+ .comment       0x00000000       0x31 ./example/example_clk.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_clk.o
+ .text          0x00000000        0x0 ./example/example_csd.o
+ .data          0x00000000        0x0 ./example/example_csd.o
+ .bss           0x00000000        0x0 ./example/example_csd.o
+ .comment       0x00000000       0x31 ./example/example_csd.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_csd.o
+ .text          0x00000000        0x0 ./example/example_download_epo.o
+ .data          0x00000000        0x0 ./example/example_download_epo.o
+ .bss           0x00000000        0x0 ./example/example_download_epo.o
+ .comment       0x00000000       0x31 ./example/example_download_epo.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_download_epo.o
+ .text          0x00000000        0x0 ./example/example_eint.o
+ .data          0x00000000        0x0 ./example/example_eint.o
+ .bss           0x00000000        0x0 ./example/example_eint.o
+ .comment       0x00000000       0x31 ./example/example_eint.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_eint.o
+ .text          0x00000000        0x0 ./example/example_file.o
+ .data          0x00000000        0x0 ./example/example_file.o
+ .bss           0x00000000        0x0 ./example/example_file.o
+ .comment       0x00000000       0x31 ./example/example_file.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_file.o
+ .text          0x00000000        0x0 ./example/example_float_math.o
+ .data          0x00000000        0x0 ./example/example_float_math.o
+ .bss           0x00000000        0x0 ./example/example_float_math.o
+ .comment       0x00000000       0x31 ./example/example_float_math.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_float_math.o
+ .text          0x00000000        0x0 ./example/example_fota_ftp.o
+ .data          0x00000000        0x0 ./example/example_fota_ftp.o
+ .bss           0x00000000        0x0 ./example/example_fota_ftp.o
+ .comment       0x00000000       0x31 ./example/example_fota_ftp.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_fota_ftp.o
+ .text          0x00000000        0x0 ./example/example_fota_http.o
+ .data          0x00000000        0x0 ./example/example_fota_http.o
+ .bss           0x00000000        0x0 ./example/example_fota_http.o
+ .comment       0x00000000       0x31 ./example/example_fota_http.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_fota_http.o
+ .text          0x00000000        0x0 ./example/example_ftp.o
+ .data          0x00000000        0x0 ./example/example_ftp.o
+ .bss           0x00000000        0x0 ./example/example_ftp.o
+ .comment       0x00000000       0x31 ./example/example_ftp.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_ftp.o
+ .text          0x00000000        0x0 ./example/example_gpio.o
+ .data          0x00000000        0x0 ./example/example_gpio.o
+ .bss           0x00000000        0x0 ./example/example_gpio.o
+ .comment       0x00000000       0x31 ./example/example_gpio.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_gpio.o
+ .text          0x00000000        0x0 ./example/example_http.o
+ .data          0x00000000        0x0 ./example/example_http.o
+ .bss           0x00000000        0x0 ./example/example_http.o
+ .comment       0x00000000       0x31 ./example/example_http.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_http.o
+ .text          0x00000000        0x0 ./example/example_iic.o
+ .data          0x00000000        0x0 ./example/example_iic.o
+ .bss           0x00000000        0x0 ./example/example_iic.o
+ .comment       0x00000000       0x31 ./example/example_iic.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_iic.o
+ .text          0x00000000        0x0 ./example/example_location.o
+ .data          0x00000000        0x0 ./example/example_location.o
+ .bss           0x00000000        0x0 ./example/example_location.o
+ .comment       0x00000000       0x31 ./example/example_location.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_location.o
+ .text          0x00000000        0x0 ./example/example_memory.o
+ .data          0x00000000        0x0 ./example/example_memory.o
+ .bss           0x00000000        0x0 ./example/example_memory.o
+ .comment       0x00000000       0x31 ./example/example_memory.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_memory.o
+ .text          0x00000000        0x0 ./example/example_multitask.o
+ .data          0x00000000        0x0 ./example/example_multitask.o
+ .bss           0x00000000        0x0 ./example/example_multitask.o
+ .comment       0x00000000       0x31 ./example/example_multitask.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_multitask.o
+ .text          0x00000000        0x0 ./example/example_multitask_port.o
+ .data          0x00000000        0x0 ./example/example_multitask_port.o
+ .bss           0x00000000        0x0 ./example/example_multitask_port.o
+ .comment       0x00000000       0x31 ./example/example_multitask_port.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_multitask_port.o
+ .text          0x00000000        0x0 ./example/example_pwm.o
+ .data          0x00000000        0x0 ./example/example_pwm.o
+ .bss           0x00000000        0x0 ./example/example_pwm.o
+ .comment       0x00000000       0x31 ./example/example_pwm.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_pwm.o
+ .text          0x00000000        0x0 ./example/example_sms.o
+ .data          0x00000000        0x0 ./example/example_sms.o
+ .bss           0x00000000        0x0 ./example/example_sms.o
+ .comment       0x00000000       0x31 ./example/example_sms.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_sms.o
+ .text          0x00000000        0x0 ./example/example_spi.o
+ .data          0x00000000        0x0 ./example/example_spi.o
+ .bss           0x00000000        0x0 ./example/example_spi.o
+ .comment       0x00000000       0x31 ./example/example_spi.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_spi.o
+ .text          0x00000000        0x0 ./example/example_system.o
+ .data          0x00000000        0x0 ./example/example_system.o
+ .bss           0x00000000        0x0 ./example/example_system.o
+ .comment       0x00000000       0x31 ./example/example_system.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_system.o
+ .text          0x00000000        0x0 ./example/example_tcp_demo.o
+ .data          0x00000000        0x0 ./example/example_tcp_demo.o
+ .bss           0x00000000        0x0 ./example/example_tcp_demo.o
+ .comment       0x00000000       0x31 ./example/example_tcp_demo.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_tcp_demo.o
+ .text          0x00000000        0x0 ./example/example_tcpclient.o
+ .data          0x00000000        0x0 ./example/example_tcpclient.o
+ .bss           0x00000000        0x0 ./example/example_tcpclient.o
+ .comment       0x00000000       0x31 ./example/example_tcpclient.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_tcpclient.o
+ .text          0x00000000        0x0 ./example/example_tcpserver.o
+ .data          0x00000000        0x0 ./example/example_tcpserver.o
+ .bss           0x00000000        0x0 ./example/example_tcpserver.o
+ .comment       0x00000000       0x31 ./example/example_tcpserver.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_tcpserver.o
+ .text          0x00000000        0x0 ./example/example_time.o
+ .data          0x00000000        0x0 ./example/example_time.o
+ .bss           0x00000000        0x0 ./example/example_time.o
+ .comment       0x00000000       0x31 ./example/example_time.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_time.o
+ .text          0x00000000        0x0 ./example/example_timer.o
+ .data          0x00000000        0x0 ./example/example_timer.o
+ .bss           0x00000000        0x0 ./example/example_timer.o
+ .comment       0x00000000       0x31 ./example/example_timer.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_timer.o
+ .text          0x00000000        0x0 ./example/example_transpass.o
+ .data          0x00000000        0x0 ./example/example_transpass.o
+ .bss           0x00000000        0x0 ./example/example_transpass.o
+ .comment       0x00000000       0x31 ./example/example_transpass.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_transpass.o
+ .text          0x00000000        0x0 ./example/example_udpclient.o
+ .data          0x00000000        0x0 ./example/example_udpclient.o
+ .bss           0x00000000        0x0 ./example/example_udpclient.o
+ .comment       0x00000000       0x31 ./example/example_udpclient.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_udpclient.o
+ .text          0x00000000        0x0 ./example/example_udpserver.o
+ .data          0x00000000        0x0 ./example/example_udpserver.o
+ .bss           0x00000000        0x0 ./example/example_udpserver.o
+ .comment       0x00000000       0x31 ./example/example_udpserver.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_udpserver.o
+ .text          0x00000000        0x0 ./example/example_watchdog.o
+ .data          0x00000000        0x0 ./example/example_watchdog.o
+ .bss           0x00000000        0x0 ./example/example_watchdog.o
+ .comment       0x00000000       0x31 ./example/example_watchdog.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_watchdog.o
+ .text          0x00000000      0x188 ./example/utility.o
+ .data          0x00000000        0x0 ./example/utility.o
+ .bss           0x00000000        0x0 ./example/utility.o
+ .rodata.str1.4
+                0x00000000       0x10 ./example/utility.o
+ .comment       0x00000000       0x31 ./example/utility.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/utility.o
+ .text          0x00000000        0x0 ./custom/lstr25/SRC/copy_27.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/copy_27.o
+ .bss           0x00000000        0x0 ./custom/lstr25/SRC/copy_27.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/copy_27.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/lstr25/SRC/copy_27.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/data.o
+ .text          0x00000000        0x0 ./custom/lstr25/SRC/flash.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/flash.o
+ .bss           0x00000000        0x0 ./custom/lstr25/SRC/flash.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/flash.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/lstr25/SRC/flash.o
+ .text          0x00000000        0x0 ./custom/lstr25/SRC/flashing.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/flashing.o
+ .bss           0x00000000        0x0 ./custom/lstr25/SRC/flashing.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/flashing.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/lstr25/SRC/flashing.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/global.o
+ .bss           0x00000000        0x0 ./custom/lstr25/SRC/global.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/gpio.o
+ .bss           0x00000000        0x0 ./custom/lstr25/SRC/gpio.o
+ .text          0x00000000        0x0 ./custom/lstr25/SRC/gpiop.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/gpiop.o
+ .bss           0x00000000        0x0 ./custom/lstr25/SRC/gpiop.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/gpiop.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/lstr25/SRC/gpiop.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/main.o
+ .text          0x00000000        0x0 ./custom/lstr25/SRC/multi_event.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/multi_event.o
+ .bss           0x00000000        0x0 ./custom/lstr25/SRC/multi_event.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/multi_event.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/lstr25/SRC/multi_event.o
+ .text          0x00000000        0x0 ./custom/lstr25/SRC/multi_time.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/multi_time.o
+ .bss           0x00000000        0x0 ./custom/lstr25/SRC/multi_time.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/multi_time.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/lstr25/SRC/multi_time.o
+ .text          0x00000000        0x0 ./custom/lstr25/SRC/proj_main.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/proj_main.o
+ .bss           0x00000000        0x0 ./custom/lstr25/SRC/proj_main.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/proj_main.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/lstr25/SRC/proj_main.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/rtc.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/sms.o
+ COMMON         0x00000000     0x119a ./custom/lstr25/SRC/sms.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/subtask1_gpio.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/task1.o
+ .text          0x00000000        0x0 ./custom/lstr25/SRC/taskmi.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/taskmi.o
+ .bss           0x00000000        0x0 ./custom/lstr25/SRC/taskmi.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/taskmi.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/lstr25/SRC/taskmi.o
+ .text          0x00000000        0x0 ./custom/lstr25/SRC/test_multi_2.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/test_multi_2.o
+ .bss           0x00000000        0x0 ./custom/lstr25/SRC/test_multi_2.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/test_multi_2.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/lstr25/SRC/test_multi_2.o
+ .text          0x00000000        0x0 ./custom/lstr25/SRC/utils.o
+ .data          0x00000000        0x0 ./custom/lstr25/SRC/utils.o
+ .bss           0x00000000        0x0 ./custom/lstr25/SRC/utils.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/utils.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/lstr25/SRC/utils.o
+ .data          0x00000000        0x0 ./custom/fota/src/fota_ftp.o
+ .text          0x00000000        0x0 ./custom/fota/src/fota_http.o
+ .data          0x00000000        0x0 ./custom/fota/src/fota_http.o
+ .bss           0x00000000        0x0 ./custom/fota/src/fota_http.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_http.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/fota/src/fota_http.o
+ .text          0x00000000        0x0 ./custom/fota/src/fota_http_code.o
+ .data          0x00000000        0x0 ./custom/fota/src/fota_http_code.o
+ .bss           0x00000000        0x0 ./custom/fota/src/fota_http_code.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_http_code.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/fota/src/fota_http_code.o
+ .data          0x00000000        0x0 ./custom/config/custom_sys_cfg.o
+ .bss           0x00000000        0x0 ./custom/config/custom_sys_cfg.o
+ .text          0x00000000        0x0 ./custom/config/sys_config.o
+ .data          0x00000000        0x0 ./custom/config/sys_config.o
+ .bss           0x00000000        0x0 ./custom/config/sys_config.o
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .data          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Truncate
+                0x00000000       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Flush
+                0x00000000       0x54 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Rename
+                0x00000000       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_DeleteDir
+                0x00000000       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_FindFirst
+                0x00000000       0x80 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_FindNext
+                0x00000000       0x80 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_FindClose
+                0x00000000       0x54 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_XDelete
+                0x00000000       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_XMove
+                0x00000000       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_GetFreeSpace
+                0x00000000       0x74 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_GetTotalSpace
+                0x00000000       0x74 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Format
+                0x00000000       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fota.o)
+ .data          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fota.o)
+ .text.Ql_FOTA_ReadData
+                0x00000000       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fota.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+ .data          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_SetLevel
+                0x00000000       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_GetLevel
+                0x00000000       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_SetDirection
+                0x00000000       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_GetDirection
+                0x00000000       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_SetPullSelection
+                0x00000000       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_GetPullSelection
+                0x00000000       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_Uninit
+                0x00000000       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+ .data          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_ActivateEx
+                0x00000000       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_DeactivateEx
+                0x00000000       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_SetDNSAddress
+                0x00000000       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .data          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .bss           0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(memory.o)
+ .data          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(memory.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_StartPlayAudioStream
+                0x00000000       0x7c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_StopPlayAudioStream
+                0x00000000       0x4c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_GetRelativeTime_Counter
+                0x00000000       0x40 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_SecondToTicks
+                0x00000000       0x48 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_MillisecondToTicks
+                0x00000000       0x48 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_CalendarTime2LocalTime
+                0x00000000       0x58 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_osChangeTaskPriority
+                0x00000000       0x50 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_func.o)
+ .rodata.str1.1
+                0x00000000       0xa3 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_func.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+ .data          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_aux.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .data          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_CreateEx
+                0x00000000       0x94 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_ConnectEx
+                0x00000000       0x78 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_SendTo
+                0x00000000       0x80 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_RecvFrom
+                0x00000000       0x80 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Bind
+                0x00000000       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Listen
+                0x00000000       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Accept
+                0x00000000       0x6c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_IpHelper_GetIPByHostNameEx
+                0x00000000       0x80 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_SetOption
+                0x00000000       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_SSL_InjectCertification
+                0x00000000       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+ .data          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_create_api_hash
+                0x00000000       0x28 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_ui64toa
+                0x00000000       0xac E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_itoa  0x00000000       0x9c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_strncat
+                0x00000000       0x88 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_memcmp
+                0x00000000       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_memmove
+                0x00000000       0x88 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_isdigit
+                0x00000000       0x14 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(system.o)
+ .data          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(system.o)
+ .text.Ql_GetUID
+                0x00000000       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(system.o)
+ .text.Ql_GetMsSincePwrOn
+                0x00000000       0x84 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(system.o)
+ .text.Ql_GetCoreVer
+                0x00000000       0x6c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(system.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+ .data          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_CreateSemaphore
+                0x00000000       0x5c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_TakeSemaphore
+                0x00000000       0x5c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GiveSemaphore
+                0x00000000       0x54 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GetActiveTaskId
+                0x00000000       0x58 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_SetLastErrorCode
+                0x00000000       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_GetLastErrorCode
+                0x00000000       0x58 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GetCurrentTaskPriority
+                0x00000000       0x4c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GetCurrenTaskLeftStackSize
+                0x00000000       0x4c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(timer.o)
+ .data          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(timer.o)
+ .text.Ql_Timer_RegisterFast
+                0x00000000       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(timer.o)
+ .text          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+ .data          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_OpenEx
+                0x00000000       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_RX_Enable
+                0x00000000       0x5c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_RX_Disable
+                0x00000000       0x5c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_SetDCBConfig
+                0x00000000       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_GetDCBConfig
+                0x00000000       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_ClrRxBuffer
+                0x00000000       0x54 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_ClrTxBuffer
+                0x00000000       0x54 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_GetOption
+                0x00000000       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_SetOption
+                0x00000000       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_SetPinStatus
+                0x00000000       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_Close
+                0x00000000       0x54 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+ .data          0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ocpu_init.o)
+ .bss           0x00000000        0x0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ocpu_init.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strstr.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strstr.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strtok.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strtok.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strtok_r.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strtok_r.o)
+ .text          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-impure.o)
+ .rodata        0x00000000        0x4 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memchr.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcmp.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcmp.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strchr.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strchr.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunssfsi.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x102c7040         0x0005a000         xr
+RAM              0xf03d2000         0x00019000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./ril/src/ril_alarm.o
+LOAD ./ril/src/ril_atResponse.o
+LOAD ./ril/src/ril_audio.o
+LOAD ./ril/src/ril_bluetooth.o
+LOAD ./ril/src/ril_custom.o
+LOAD ./ril/src/ril_ftp.o
+LOAD ./ril/src/ril_http.o
+LOAD ./ril/src/ril_init.o
+LOAD ./ril/src/ril_location.o
+LOAD ./ril/src/ril_network.o
+LOAD ./ril/src/ril_sms.o
+LOAD ./ril/src/ril_system.o
+LOAD ./ril/src/ril_telephony.o
+LOAD ./ril/src/ril_urc.o
+LOAD ./ril/src/ril_util.o
+LOAD ./example/example_adc.o
+LOAD ./example/example_audio.o
+LOAD ./example/example_bluetooth.o
+LOAD ./example/example_call.o
+LOAD ./example/example_clk.o
+LOAD ./example/example_csd.o
+LOAD ./example/example_download_epo.o
+LOAD ./example/example_eint.o
+LOAD ./example/example_file.o
+LOAD ./example/example_float_math.o
+LOAD ./example/example_fota_ftp.o
+LOAD ./example/example_fota_http.o
+LOAD ./example/example_ftp.o
+LOAD ./example/example_gpio.o
+LOAD ./example/example_http.o
+LOAD ./example/example_iic.o
+LOAD ./example/example_location.o
+LOAD ./example/example_memory.o
+LOAD ./example/example_multitask.o
+LOAD ./example/example_multitask_port.o
+LOAD ./example/example_pwm.o
+LOAD ./example/example_sms.o
+LOAD ./example/example_spi.o
+LOAD ./example/example_system.o
+LOAD ./example/example_tcp_demo.o
+LOAD ./example/example_tcpclient.o
+LOAD ./example/example_tcpserver.o
+LOAD ./example/example_time.o
+LOAD ./example/example_timer.o
+LOAD ./example/example_transpass.o
+LOAD ./example/example_udpclient.o
+LOAD ./example/example_udpserver.o
+LOAD ./example/example_watchdog.o
+LOAD ./example/utility.o
+LOAD ./custom/lstr25/SRC/copy_27.o
+LOAD ./custom/lstr25/SRC/data.o
+LOAD ./custom/lstr25/SRC/flash.o
+LOAD ./custom/lstr25/SRC/flashing.o
+LOAD ./custom/lstr25/SRC/global.o
+LOAD ./custom/lstr25/SRC/gpio.o
+LOAD ./custom/lstr25/SRC/gpiop.o
+LOAD ./custom/lstr25/SRC/main.o
+LOAD ./custom/lstr25/SRC/multi_event.o
+LOAD ./custom/lstr25/SRC/multi_time.o
+LOAD ./custom/lstr25/SRC/proj_main.o
+LOAD ./custom/lstr25/SRC/rtc.o
+LOAD ./custom/lstr25/SRC/sms.o
+LOAD ./custom/lstr25/SRC/subtask1_gpio.o
+LOAD ./custom/lstr25/SRC/task1.o
+LOAD ./custom/lstr25/SRC/task2.o
+LOAD ./custom/lstr25/SRC/task3.o
+LOAD ./custom/lstr25/SRC/task4.o
+LOAD ./custom/lstr25/SRC/taskmi.o
+LOAD ./custom/lstr25/SRC/test_multi_2.o
+LOAD ./custom/lstr25/SRC/utils.o
+LOAD ./custom/fota/src/fota_ftp.o
+LOAD ./custom/fota/src/fota_http.o
+LOAD ./custom/fota/src/fota_http_code.o
+LOAD ./custom/fota/src/fota_main.o
+LOAD ./custom/config/custom_sys_cfg.o
+LOAD ./custom/config/sys_config.o
+LOAD E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a
+LOAD C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libm.a
+LOAD C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a
+LOAD C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libcs3.a
+LOAD C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a
+START GROUP
+LOAD C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a
+LOAD C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a
+END GROUP
+                0x102c7040                . = 0x102c7040
+
+.initdata       0x102c7040       0x2c
+ *(.initdata)
+ .initdata      0x102c7040       0x2c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+                0x102c7040                GADLENTRY
+
+text            0x102c7070    0x13bc0
+ *(.text)
+ .text          0x102c7070       0x9c ./ril/src/ril_atResponse.o
+                0x102c7070                Default_atRsp_callback
+ .text          0x102c710c     0x2d4c ./ril/src/ril_bluetooth.o
+                0x102c7c00                BT_DevMngmt_GetDeviceId
+                0x102c7c48                BT_DevMngmt_GetPairedId
+                0x102c7c90                BT_DevMngmt_GetConnId
+                0x102c7cd8                BT_DevMngmt_GetProfileId
+                0x102c7d20                BT_DevMngmt_GetdevName
+                0x102c7d64                BT_DevMngmt_GetdevAddr
+                0x102c7dac                RIL_BT_Switch
+                0x102c7e34                RIL_BT_GetPwrState
+                0x102c7ea4                RIL_BT_SetName
+                0x102c7f40                RIL_BT_GetName
+                0x102c8064                RIL_BT_GetLocalAddr
+                0x102c8144                RIL_BT_SetVisble
+                0x102c81f8                OnURCHandler_BTVisible
+                0x102c82f0                RIL_BT_GetVisble
+                0x102c8364                OnURCHandler_BTScan
+                0x102c860c                RIL_BT_GetDevListInfo
+                0x102c8684                RIL_BT_GetDevListPointer
+                0x102c8690                RIL_BT_StopScan
+                0x102c86e8                RIL_BT_QueryState
+                0x102c874c                RIL_BT_StartScan
+                0x102c880c                RIL_BT_Initialize
+                0x102c8840                RIL_BT_PairReq
+                0x102c88e8                OnURCHandler_BTPair
+                0x102c8af0                RIL_BT_PairConfirm
+                0x102c8ba4                OnURCHandler_BTPairCnf
+                0x102c8d90                RIL_BT_Unpair
+                0x102c8ef4                RIL_BT_GetSupportedProfile
+                0x102c8fb4                RIL_BT_ConnReq
+                0x102c9084                OnURCHandler_BTConn
+                0x102c92a8                RIL_BT_SPP_DirectConn
+                0x102c933c                RIL_BT_ConnAccept
+                0x102c93cc                OnURCHandler_BTConnCnf
+                0x102c95e8                RIL_BT_Disconnect
+                0x102c9694                OnURCHandler_BTDisconn
+                0x102c98d4                RIL_BT_SPP_Send
+                0x102c99b0                RIL_BT_SPP_Read
+                0x102c9a90                OnURCHandler_BTIndcation
+ .text          0x102c9e58       0x20 ./ril/src/ril_custom.o
+                0x102c9e58                Ql_RIL_RcvDataFrmCore
+ .text          0x102c9e78      0xfcc ./ril/src/ril_ftp.o
+                0x102ca324                RIL_FTP_QFTPOPEN
+                0x102ca5c4                RIL_FTP_QFTPCLOSE
+                0x102ca668                RIL_FTP_QFTPPUT
+                0x102ca738                RIL_FTP_QFTPGET
+                0x102ca7f0                RIL_FTP_QFTPPATH
+                0x102ca8a4                RIL_FTP_QFTPCFG
+                0x102ca960                RIL_FTP_QFTPSTAT
+                0x102ca9f0                RIL_FTP_QFTPLEN
+                0x102caa80                RIL_FTP_QFTPRENAME
+                0x102cab3c                RIL_FTP_QFTPSIZE
+                0x102cabf0                RIL_FTP_QFTPDELETE
+                0x102caca4                RIL_FTP_QFTPMKDIR
+                0x102cad58                RIL_FTP_QFTPRMDIR
+                0x102cae0c                RIL_FTP_QIDEACT
+ .text          0x102cae44       0x10 ./ril/src/ril_init.o
+                0x102cae44                RIL_GetInitCmdCnt
+                0x102cae4c                RIL_GetLimitedCmdCnt
+ .text          0x102cae54      0xd34 ./ril/src/ril_network.o
+                0x102cb110                RIL_NW_GetSimStateByName
+                0x102cb3f8                RIL_NW_GetSIMCardState
+                0x102cb46c                RIL_NW_GetGSMState
+                0x102cb4e0                RIL_NW_GetGPRSState
+                0x102cb55c                RIL_NW_GetSignalQuality
+                0x102cb5ec                RIL_NW_SetGPRSContext
+                0x102cb668                RIL_NW_SetAPN
+                0x102cb778                RIL_NW_GetIpStatusByName
+                0x102cba28                RIL_NW_GetIPStatus
+                0x102cba70                RIL_NW_OpenPDPContext
+                0x102cbb20                RIL_NW_ClosePDPContext
+ .text          0x102cbb88     0x1730 ./ril/src/ril_sms.o
+                0x102cc668                RIL_SMS_GetStorage
+                0x102cc66c                RIL_SMS_SetStorage
+                0x102cc780                RIL_SMS_ReadSMS_PDU
+                0x102cc858                RIL_SMS_ReadSMS_Text
+                0x102ccb74                RIL_SMS_SendSMS_PDU
+                0x102ccc2c                RIL_SMS_SendSMS_Text
+                0x102cceac                RIL_SMS_SendSMS_Text_Ext
+                0x102cd1a8                RIL_SMS_DeleteSMS
+ .text          0x102cd2b8      0xbd0 ./ril/src/ril_urc.o
+                0x102cdd40                OnURCHandler
+                0x102cde0c                Ql_RIL_IsURCStr
+ .text          0x102cde88      0x4a0 ./ril/src/ril_util.o
+                0x102cde88                Ql_StrPrefixMatch
+                0x102cded8                Ql_StrToUpper
+                0x102cdf34                Ql_HexStrToInt
+                0x102cdfc8                Ql_RIL_FindString
+                0x102ce054                Ql_RIL_FindLine
+                0x102ce2d4                Ql_GenHash
+ .text          0x102ce328     0x15ac ./custom/lstr25/SRC/data.o
+                0x102ce328                Collect_Data_Header
+                0x102ce3b8                Load_Data_Header
+                0x102ce494                Load_Ram_Data
+                0x102cec48                Data_Collect_From_ram
+                0x102cec68                Data_PushRam
+                0x102cee6c                Data_Retrieve
+                0x102cf09c                LatitudeFormatinLong
+                0x102cf19c                LongitudeFormatinLong
+                0x102cf29c                vts_data_FormatDateTimeinInt
+                0x102cf3a4                vts_data_FormatRTCDateTimeinInt
+                0x102cf4ac                Data_Load
+ .text          0x102cf8d4       0x68 ./custom/lstr25/SRC/global.o
+                0x102cf8d4                Initaize_AllGlobalVar
+ .text          0x102cf93c       0xd8 ./custom/lstr25/SRC/gpio.o
+                0x102cf93c                GPIO_Init
+ .text          0x102cfa14      0x8c0 ./custom/lstr25/SRC/main.o
+                0x102cfad0                proc_main_task
+ .text          0x102d02d4      0x604 ./custom/lstr25/SRC/rtc.o
+                0x102d02d4                AT_Response_Handler
+                0x102d03b8                SendATCommand
+                0x102d0464                rtc_SetClock
+                0x102d05fc                ATResponse_QRTC_Handler
+ .text          0x102d08d8     0x12d0 ./custom/lstr25/SRC/sms.o
+                0x102d08d8                vts_sms_Check_SMS_validity
+                0x102d0a00                vts_sms_InitSMSService
+                0x102d0dc4                vts_sms_Send_MSG
+                0x102d0f70                vts_sms_DeleteSMSmessage
+                0x102d1048                vts_sms_Cntrl_getCommand
+                0x102d141c                vts_sms_Cntrl_processRequest
+                0x102d1834                vts_sms_Check_SMS_Command
+                0x102d1a24                vts_sms_ProcessReceivedSMS
+                0x102d1b00                proc_main_task5
+ .text          0x102d1ba8      0x144 ./custom/lstr25/SRC/subtask1_gpio.o
+                0x102d1ba8                proc_subtask_gpio
+ .text          0x102d1cec     0x1fe8 ./custom/lstr25/SRC/task1.o
+                0x102d1ddc                ReadSerialPort
+                0x102d1e50                CallBack_UART1_Hdlr
+                0x102d1f30                Uart_Initialize
+                0x102d2078                proc_main_task1
+                0x102d22a4                gps_ParseRMCString
+                0x102d2908                gps_ParseTXTString
+                0x102d2a18                Collect_GPS_Data
+                0x102d2d4c                CallBack_UART2_Hdlr
+                0x102d2e04                Cal_Str_checksum
+                0x102d2e54                Form_McAck
+                0x102d3070                Comp_Str_checksum
+                0x102d322c                CR_ProtocolParse
+                0x102d3688                TR_ProtocolParse
+                0x102d39b8                Internal_ProtocolParse
+                0x102d3b8c                CallBack_UART3_Hdlr
+ .text          0x102d3cd4     0x26a4 ./custom/lstr25/SRC/task2.o
+                0x102d3cd4                callback_socket_accept
+                0x102d3cd8                callback_socket_close
+                0x102d3f98                callback_socket_write
+                0x102d429c                callback_socket_read
+                0x102d45f4                CallBack_GPRS_Deactived
+                0x102d46c8                Callback_GPRS_Actived
+                0x102d47a0                callback_socket_connect
+                0x102d48c4                Callback_GetIpByName
+                0x102d4a50                proc_main_task2
+                0x102d4dbc                checkErr_AckNumber
+ .text          0x102d6378     0x15e4 ./custom/lstr25/SRC/task3.o
+                0x102d6378                Task3_Timer_handler
+                0x102d6478                File_Initialize
+                0x102d6548                Subscribe_File_Sys
+                0x102d669c                Data_Read_From_File
+                0x102d6be4                UnSubscribe_File_Sys
+                0x102d6e20                Ptr_Write_in_File
+                0x102d6f68                Data_Write_in_File
+                0x102d72fc                Ptr_Read_in_File
+                0x102d7500                Subscribe_Other_File
+                0x102d7768                proc_main_task3
+ .text          0x102d795c      0x35c ./custom/lstr25/SRC/task4.o
+                0x102d795c                Fota_Process
+                0x102d7a70                proc_main_task4
+ .text          0x102d7cb8     0x10a8 ./custom/fota/src/fota_ftp.o
+                0x102d7cb8                FTP_Callback_OnDownload
+                0x102d8268                FTP_FotaMain
+                0x102d8d08                FTP_IsFtpServer
+ .text          0x102d8d60      0x360 ./custom/fota/src/fota_main.o
+                0x102d8f18                Ql_FOTA_StartUpgrade
+                0x102d90b8                Ql_FOTA_StopUpgrade
+ .text          0x102d90c0        0xc ./custom/config/custom_sys_cfg.o
+                0x102d90c0                Ql_WTD_GetWDIPinCfg
+ .text          0x102d90cc       0x4c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ocpu_init.o)
+                0x102d90cc                _OCPU_InitUserMem
+ .text          0x102d9118      0x10c C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+                0x102d9118                memcpy
+ .text          0x102d9224       0x9c C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+                0x102d9224                memset
+ .text          0x102d92c0      0x4e8 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strstr.o)
+                0x102d9584                strstr
+ .text          0x102d97a8       0x18 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strtok.o)
+                0x102d97a8                strtok
+ .text          0x102d97c0       0x7c C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strtok_r.o)
+                0x102d97c0                __strtok_r
+                0x102d982c                strtok_r
+ .text          0x102d983c       0x98 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memchr.o)
+                0x102d983c                memchr
+ .text          0x102d98d4       0x60 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcmp.o)
+                0x102d98d4                memcmp
+ .text          0x102d9934       0xd4 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strchr.o)
+                0x102d9934                strchr
+ .text          0x102d9a08      0x11c C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+                0x102d9a08                __aeabi_uidiv
+                0x102d9a08                __udivsi3
+                0x102d9b04                __aeabi_uidivmod
+ .text          0x102d9b24      0x150 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+                0x102d9b24                __divsi3
+                0x102d9b24                __aeabi_idiv
+                0x102d9c54                __aeabi_idivmod
+ .text          0x102d9c74        0x4 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+                0x102d9c74                __aeabi_idiv0
+                0x102d9c74                __aeabi_ldiv0
+ .text          0x102d9c78      0x41c C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+                0x102d9c78                __aeabi_drsub
+                0x102d9c80                __aeabi_dsub
+                0x102d9c80                __subdf3
+                0x102d9c84                __aeabi_dadd
+                0x102d9c84                __adddf3
+                0x102d9f94                __floatunsidf
+                0x102d9f94                __aeabi_ui2d
+                0x102d9fb8                __floatsidf
+                0x102d9fb8                __aeabi_i2d
+                0x102d9fe0                __aeabi_f2d
+                0x102d9fe0                __extendsfdf2
+                0x102da020                __floatundidf
+                0x102da020                __aeabi_ul2d
+                0x102da034                __floatdidf
+                0x102da034                __aeabi_l2d
+ .text          0x102da094      0x49c C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivdf3.o)
+                0x102da094                __aeabi_dmul
+                0x102da094                __muldf3
+                0x102da324                __divdf3
+                0x102da324                __aeabi_ddiv
+ .text          0x102da530       0x54 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunsdfsi.o)
+                0x102da530                __aeabi_d2uiz
+                0x102da530                __fixunsdfsi
+ .text          0x102da584       0xa0 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+                0x102da584                __truncdfsf2
+                0x102da584                __aeabi_d2f
+ .text          0x102da624      0x2ac C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubsf3.o)
+                0x102da624                __aeabi_frsub
+                0x102da62c                __subsf3
+                0x102da62c                __aeabi_fsub
+                0x102da630                __aeabi_fadd
+                0x102da630                __addsf3
+                0x102da7ec                __aeabi_ui2f
+                0x102da7ec                __floatunsisf
+                0x102da7f4                __aeabi_i2f
+                0x102da7f4                __floatsisf
+                0x102da814                __aeabi_ul2f
+                0x102da814                __floatundisf
+                0x102da824                __aeabi_l2f
+                0x102da824                __floatdisf
+ .text          0x102da8d0      0x2f8 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivsf3.o)
+                0x102da8d0                __mulsf3
+                0x102da8d0                __aeabi_fmul
+                0x102daa68                __aeabi_fdiv
+                0x102daa68                __divsf3
+ .text          0x102dabc8       0x54 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunssfsi.o)
+                0x102dabc8                __fixunssfsi
+                0x102dabc8                __aeabi_f2uiz
+ *fill*         0x102dac1c        0x4 
+ .text.__stub   0x102dac20        0xc linker stubs
+
+.glue_7         0x102dac30        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x102dac30        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x102dac30        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x102dac30        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x102dac30        0x0
+ .iplt          0x00000000        0x0 ./ril/src/ril_alarm.o
+
+.text.Ql_FS_Open
+                0x102dac30       0x68
+ .text.Ql_FS_Open
+                0x102dac30       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+                0x102dac30                Ql_FS_Open
+
+.text.Ql_FS_OpenRAMFile
+                0x102dac98       0x70
+ .text.Ql_FS_OpenRAMFile
+                0x102dac98       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+                0x102dac98                Ql_FS_OpenRAMFile
+
+.text.Ql_FS_Read
+                0x102dad08       0x78
+ .text.Ql_FS_Read
+                0x102dad08       0x78 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+                0x102dad08                Ql_FS_Read
+
+.text.Ql_FS_Write
+                0x102dad80       0x78
+ .text.Ql_FS_Write
+                0x102dad80       0x78 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+                0x102dad80                Ql_FS_Write
+
+.text.Ql_FS_Seek
+                0x102dadf8       0x70
+ .text.Ql_FS_Seek
+                0x102dadf8       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+                0x102dadf8                Ql_FS_Seek
+
+.text.Ql_FS_GetFilePosition
+                0x102dae68       0x60
+ .text.Ql_FS_GetFilePosition
+                0x102dae68       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+                0x102dae68                Ql_FS_GetFilePosition
+
+.text.Ql_FS_Close
+                0x102daec8       0x54
+ .text.Ql_FS_Close
+                0x102daec8       0x54 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+                0x102daec8                Ql_FS_Close
+
+.text.Ql_FS_GetSize
+                0x102daf1c       0x60
+ .text.Ql_FS_GetSize
+                0x102daf1c       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+                0x102daf1c                Ql_FS_GetSize
+
+.text.Ql_FS_Delete
+                0x102daf7c       0x60
+ .text.Ql_FS_Delete
+                0x102daf7c       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+                0x102daf7c                Ql_FS_Delete
+
+.text.Ql_FS_Check
+                0x102dafdc       0x60
+ .text.Ql_FS_Check
+                0x102dafdc       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+                0x102dafdc                Ql_FS_Check
+
+.text.Ql_FS_CreateDir
+                0x102db03c       0x60
+ .text.Ql_FS_CreateDir
+                0x102db03c       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+                0x102db03c                Ql_FS_CreateDir
+
+.text.Ql_FS_CheckDir
+                0x102db09c       0x60
+ .text.Ql_FS_CheckDir
+                0x102db09c       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+                0x102db09c                Ql_FS_CheckDir
+
+.text.Ql_FOTA_Init
+                0x102db0fc       0x60
+ .text.Ql_FOTA_Init
+                0x102db0fc       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fota.o)
+                0x102db0fc                Ql_FOTA_Init
+
+.text.Ql_FOTA_WriteData
+                0x102db15c       0x68
+ .text.Ql_FOTA_WriteData
+                0x102db15c       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fota.o)
+                0x102db15c                Ql_FOTA_WriteData
+
+.text.Ql_FOTA_Finish
+                0x102db1c4       0x58
+ .text.Ql_FOTA_Finish
+                0x102db1c4       0x58 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fota.o)
+                0x102db1c4                Ql_FOTA_Finish
+
+.text.Ql_FOTA_Update
+                0x102db21c       0x58
+ .text.Ql_FOTA_Update
+                0x102db21c       0x58 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fota.o)
+                0x102db21c                Ql_FOTA_Update
+
+.text.Ql_GPIO_Init
+                0x102db274       0x78
+ .text.Ql_GPIO_Init
+                0x102db274       0x78 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+                0x102db274                Ql_GPIO_Init
+
+.text.Ql_GPRS_GetPDPCntxtState
+                0x102db2ec       0x60
+ .text.Ql_GPRS_GetPDPCntxtState
+                0x102db2ec       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+                0x102db2ec                Ql_GPRS_GetPDPCntxtState
+
+.text.Ql_GPRS_GetPDPContextId
+                0x102db34c       0x34
+ .text.Ql_GPRS_GetPDPContextId
+                0x102db34c       0x34 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+                0x102db34c                Ql_GPRS_GetPDPContextId
+
+.text.Ql_GPRS_Config
+                0x102db380       0x68
+ .text.Ql_GPRS_Config
+                0x102db380       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+                0x102db380                Ql_GPRS_Config
+
+.text.Ql_GPRS_Register
+                0x102db3e8       0x70
+ .text.Ql_GPRS_Register
+                0x102db3e8       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+                0x102db3e8                Ql_GPRS_Register
+
+.text.Ql_GPRS_Activate
+                0x102db458       0x60
+ .text.Ql_GPRS_Activate
+                0x102db458       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+                0x102db458                Ql_GPRS_Activate
+
+.text.Ql_GPRS_Deactivate
+                0x102db4b8       0x60
+ .text.Ql_GPRS_Deactivate
+                0x102db4b8       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+                0x102db4b8                Ql_GPRS_Deactivate
+
+.text.Ql_GPRS_GetLocalIPAddress
+                0x102db518       0x68
+ .text.Ql_GPRS_GetLocalIPAddress
+                0x102db518       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+                0x102db518                Ql_GPRS_GetLocalIPAddress
+
+.text.Ql_GPRS_GetDNSAddress
+                0x102db580       0x70
+ .text.Ql_GPRS_GetDNSAddress
+                0x102db580       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+                0x102db580                Ql_GPRS_GetDNSAddress
+
+.text.EncodeAddress
+                0x102db5f0      0x228
+ .text.EncodeAddress
+                0x102db5f0      0x228 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+
+.text.DecodeUserDataHeader
+                0x102db818       0xb8
+ .text.DecodeUserDataHeader
+                0x102db818       0xb8 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+
+.text.EncodeGSM7Bit.part.2
+                0x102db8d0       0xd4
+ .text.EncodeGSM7Bit.part.2
+                0x102db8d0       0xd4 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+
+.text.DecodeGSM7Bit
+                0x102db9a4      0x148
+ .text.DecodeGSM7Bit
+                0x102db9a4      0x148 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+
+.text.DecodeAddress
+                0x102dbaec      0x218
+ .text.DecodeAddress
+                0x102dbaec      0x218 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+
+.text.DecordUserDataBody.part.5
+                0x102dbd04      0x180
+ .text.DecordUserDataBody.part.5
+                0x102dbd04      0x180 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+
+.text.DecodeTimeStamp.constprop.8
+                0x102dbe84      0x104
+ .text.DecodeTimeStamp.constprop.8
+                0x102dbe84      0x104 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+
+.text.LIB_SMS_IsValidHexStr
+                0x102dbf88       0x54
+ .text.LIB_SMS_IsValidHexStr
+                0x102dbf88       0x54 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102dbf88                LIB_SMS_IsValidHexStr
+
+.text.LIB_SMS_ConvHexOctToHexStr
+                0x102dbfdc       0xa8
+ .text.LIB_SMS_ConvHexOctToHexStr
+                0x102dbfdc       0xa8 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102dbfdc                LIB_SMS_ConvHexOctToHexStr
+
+.text.LIB_SMS_ConvHexStrToHexOct
+                0x102dc084       0xe8
+ .text.LIB_SMS_ConvHexStrToHexOct
+                0x102dc084       0xe8 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102dc084                LIB_SMS_ConvHexStrToHexOct
+
+.text.LIB_SMS_DecodeDCS
+                0x102dc16c      0x164
+ .text.LIB_SMS_DecodeDCS
+                0x102dc16c      0x164 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102dc16c                LIB_SMS_DecodeDCS
+
+.text.LIB_SMS_ConvAlphaToCharSet
+                0x102dc2d0      0x43c
+ .text.LIB_SMS_ConvAlphaToCharSet
+                0x102dc2d0      0x43c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102dc2d0                LIB_SMS_ConvAlphaToCharSet
+
+.text.LIB_SMS_ConvCharSetToAlpha
+                0x102dc70c      0x7b4
+ .text.LIB_SMS_ConvCharSetToAlpha
+                0x102dc70c      0x7b4 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102dc70c                LIB_SMS_ConvCharSetToAlpha
+
+.text.LIB_SMS_DecodePDUStr
+                0x102dcec0      0x500
+ .text.LIB_SMS_DecodePDUStr
+                0x102dcec0      0x500 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102dcec0                LIB_SMS_DecodePDUStr
+
+.text.LIB_SMS_EncodeSubmitPDU
+                0x102dd3c0      0x730
+ .text.LIB_SMS_EncodeSubmitPDU
+                0x102dd3c0      0x730 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                0x102dd3c0                LIB_SMS_EncodeSubmitPDU
+
+.text.Ql_MEM_Alloc
+                0x102ddaf0       0x78
+ .text.Ql_MEM_Alloc
+                0x102ddaf0       0x78 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(memory.o)
+                0x102ddaf0                Ql_MEM_Alloc
+
+.text.Ql_MEM_Free
+                0x102ddb68       0x74
+ .text.Ql_MEM_Free
+                0x102ddb68       0x74 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(memory.o)
+                0x102ddb68                Ql_MEM_Free
+
+.text.ql_InitVFunc
+                0x102ddbdc       0xd8
+ .text.ql_InitVFunc
+                0x102ddbdc       0xd8 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+                0x102ddbdc                ql_InitVFunc
+
+.text.ocpu_main
+                0x102ddcb4       0xf0
+ .text.ocpu_main
+                0x102ddcb4       0xf0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+                0x102ddcb4                ocpu_main
+
+.text.proc_reserved2
+                0x102ddda4       0x70
+ .text.proc_reserved2
+                0x102ddda4       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_aux.o)
+                0x102ddda4                proc_reserved2
+
+.text.ril_StopATTimer
+                0x102dde14       0x34
+ .text.ril_StopATTimer
+                0x102dde14       0x34 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+
+.text.Callback_OnATTimer
+                0x102dde48       0x4c
+ .text.Callback_OnATTimer
+                0x102dde48       0x4c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+
+.text.CallBack_SerialPort_Hdlr
+                0x102dde94      0x384
+ .text.CallBack_SerialPort_Hdlr
+                0x102dde94      0x384 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+
+.text.proc_reserved1
+                0x102de218      0x200
+ .text.proc_reserved1
+                0x102de218      0x200 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+                0x102de218                proc_reserved1
+
+.text.Ql_RIL_Initialize
+                0x102de418       0xd4
+ .text.Ql_RIL_Initialize
+                0x102de418       0xd4 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+                0x102de418                Ql_RIL_Initialize
+
+.text.Ql_RIL_SendATCmd
+                0x102de4ec      0x264
+ .text.Ql_RIL_SendATCmd
+                0x102de4ec      0x264 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+                0x102de4ec                Ql_RIL_SendATCmd
+
+.text.Ql_RIL_WriteDataToCore
+                0x102de750       0x24
+ .text.Ql_RIL_WriteDataToCore
+                0x102de750       0x24 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+                0x102de750                Ql_RIL_WriteDataToCore
+
+.text.Ql_SOC_Register
+                0x102de774       0x84
+ .text.Ql_SOC_Register
+                0x102de774       0x84 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+                0x102de774                Ql_SOC_Register
+
+.text.Ql_SOC_Create
+                0x102de7f8       0x64
+ .text.Ql_SOC_Create
+                0x102de7f8       0x64 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+                0x102de7f8                Ql_SOC_Create
+
+.text.Ql_SOC_Close
+                0x102de85c       0x60
+ .text.Ql_SOC_Close
+                0x102de85c       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+                0x102de85c                Ql_SOC_Close
+
+.text.Ql_SOC_Connect
+                0x102de8bc       0x70
+ .text.Ql_SOC_Connect
+                0x102de8bc       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+                0x102de8bc                Ql_SOC_Connect
+
+.text.Ql_SOC_Send
+                0x102de92c       0x70
+ .text.Ql_SOC_Send
+                0x102de92c       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+                0x102de92c                Ql_SOC_Send
+
+.text.Ql_SOC_Recv
+                0x102de99c       0x70
+ .text.Ql_SOC_Recv
+                0x102de99c       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+                0x102de99c                Ql_SOC_Recv
+
+.text.Ql_SOC_GetAckNumber
+                0x102dea0c       0x68
+ .text.Ql_SOC_GetAckNumber
+                0x102dea0c       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+                0x102dea0c                Ql_SOC_GetAckNumber
+
+.text.Ql_IpHelper_GetIPByHostName
+                0x102dea74       0x78
+ .text.Ql_IpHelper_GetIPByHostName
+                0x102dea74       0x78 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+                0x102dea74                Ql_IpHelper_GetIPByHostName
+
+.text.Ql_IpHelper_ConvertIpAddr
+                0x102deaec       0x68
+ .text.Ql_IpHelper_ConvertIpAddr
+                0x102deaec       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+                0x102deaec                Ql_IpHelper_ConvertIpAddr
+
+.text.Ql_atof   0x102deb54       0x98
+ .text.Ql_atof  0x102deb54       0x98 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102deb54                Ql_atof
+
+.text.Ql_strcpy
+                0x102debec       0xa0
+ .text.Ql_strcpy
+                0x102debec       0xa0 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102debec                Ql_strcpy
+
+.text.Ql_strncpy
+                0x102dec8c       0x88
+ .text.Ql_strncpy
+                0x102dec8c       0x88 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102dec8c                Ql_strncpy
+
+.text.Ql_strcat
+                0x102ded14       0x80
+ .text.Ql_strcat
+                0x102ded14       0x80 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102ded14                Ql_strcat
+
+.text.Ql_strlen
+                0x102ded94       0x78
+ .text.Ql_strlen
+                0x102ded94       0x78 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102ded94                Ql_strlen
+
+.text.Ql_strcmp
+                0x102dee0c       0x68
+ .text.Ql_strcmp
+                0x102dee0c       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102dee0c                Ql_strcmp
+
+.text.Ql_strncmp
+                0x102dee74       0x70
+ .text.Ql_strncmp
+                0x102dee74       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102dee74                Ql_strncmp
+
+.text.Ql_memset
+                0x102deee4       0x88
+ .text.Ql_memset
+                0x102deee4       0x88 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102deee4                Ql_memset
+
+.text.Ql_memcpy
+                0x102def6c       0x88
+ .text.Ql_memcpy
+                0x102def6c       0x88 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102def6c                Ql_memcpy
+
+.text.Ql_strstr
+                0x102deff4       0x80
+ .text.Ql_strstr
+                0x102deff4       0x80 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102deff4                Ql_strstr
+
+.text.Ql_strchr
+                0x102df074       0x80
+ .text.Ql_strchr
+                0x102df074       0x80 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102df074                Ql_strchr
+
+.text.Ql_toupper
+                0x102df0f4        0x8
+ .text.Ql_toupper
+                0x102df0f4        0x8 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102df0f4                Ql_toupper
+
+.text.Ql_tolower
+                0x102df0fc        0x8
+ .text.Ql_tolower
+                0x102df0fc        0x8 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102df0fc                Ql_tolower
+
+.text.Ql_atoi   0x102df104       0x84
+ .text.Ql_atoi  0x102df104       0x84 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102df104                Ql_atoi
+
+.text.Ql_Sleep  0x102df188       0x74
+ .text.Ql_Sleep
+                0x102df188       0x74 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(system.o)
+                0x102df188                Ql_Sleep
+
+.text.Ql_Reset  0x102df1fc       0x74
+ .text.Ql_Reset
+                0x102df1fc       0x74 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(system.o)
+                0x102df1fc                Ql_Reset
+
+.text.Ql_GetSDKVer
+                0x102df270       0x64
+ .text.Ql_GetSDKVer
+                0x102df270       0x64 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(system.o)
+                0x102df270                Ql_GetSDKVer
+
+.text.Ql_OS_GetMessage
+                0x102df2d4       0x60
+ .text.Ql_OS_GetMessage
+                0x102df2d4       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102df2d4                Ql_OS_GetMessage
+
+.text.Ql_OS_SendMessage
+                0x102df334       0x78
+ .text.Ql_OS_SendMessage
+                0x102df334       0x78 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102df334                Ql_OS_SendMessage
+
+.text.Ql_OS_CreateMutex
+                0x102df3ac       0x54
+ .text.Ql_OS_CreateMutex
+                0x102df3ac       0x54 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102df3ac                Ql_OS_CreateMutex
+
+.text.Ql_OS_TakeMutex
+                0x102df400       0x54
+ .text.Ql_OS_TakeMutex
+                0x102df400       0x54 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102df400                Ql_OS_TakeMutex
+
+.text.Ql_OS_GiveMutex
+                0x102df454       0x54
+ .text.Ql_OS_GiveMutex
+                0x102df454       0x54 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102df454                Ql_OS_GiveMutex
+
+.text.Ql_OS_CreateEvent
+                0x102df4a8       0x54
+ .text.Ql_OS_CreateEvent
+                0x102df4a8       0x54 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102df4a8                Ql_OS_CreateEvent
+
+.text.Ql_OS_WaitEvent
+                0x102df4fc       0x68
+ .text.Ql_OS_WaitEvent
+                0x102df4fc       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102df4fc                Ql_OS_WaitEvent
+
+.text.Ql_OS_SetEvent
+                0x102df564       0x68
+ .text.Ql_OS_SetEvent
+                0x102df564       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102df564                Ql_OS_SetEvent
+
+.text.Ql_Timer_Register
+                0x102df5cc       0x70
+ .text.Ql_Timer_Register
+                0x102df5cc       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(timer.o)
+                0x102df5cc                Ql_Timer_Register
+
+.text.Ql_Timer_Start
+                0x102df63c       0x70
+ .text.Ql_Timer_Start
+                0x102df63c       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(timer.o)
+                0x102df63c                Ql_Timer_Start
+
+.text.Ql_Timer_Stop
+                0x102df6ac       0x60
+ .text.Ql_Timer_Stop
+                0x102df6ac       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(timer.o)
+                0x102df6ac                Ql_Timer_Stop
+
+.text.Ql_UART_Register
+                0x102df70c       0x70
+ .text.Ql_UART_Register
+                0x102df70c       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+                0x102df70c                Ql_UART_Register
+
+.text.Ql_UART_Open
+                0x102df77c       0x70
+ .text.Ql_UART_Open
+                0x102df77c       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+                0x102df77c                Ql_UART_Open
+
+.text.Ql_UART_Write
+                0x102df7ec       0x70
+ .text.Ql_UART_Write
+                0x102df7ec       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+                0x102df7ec                Ql_UART_Write
+
+.text.Ql_UART_Read
+                0x102df85c       0x70
+ .text.Ql_UART_Read
+                0x102df85c       0x70 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+                0x102df85c                Ql_UART_Read
+
+.text.Ql_UART_GetPinStatus
+                0x102df8cc       0x68
+ .text.Ql_UART_GetPinStatus
+                0x102df8cc       0x68 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+                0x102df8cc                Ql_UART_GetPinStatus
+
+.text.Ql_UART_SendEscap
+                0x102df934       0x60
+ .text.Ql_UART_SendEscap
+                0x102df934       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+                0x102df934                Ql_UART_SendEscap
+
+.rodata         0x102df994      0xed4
+ *(.rodata)
+ .rodata        0x102df994      0x124 ./ril/src/ril_bluetooth.o
+ .rodata        0x102dfab8       0x8c ./ril/src/ril_network.o
+ .rodata        0x102dfb44      0x738 ./ril/src/ril_urc.o
+ .rodata        0x102e027c        0xc ./custom/lstr25/SRC/data.o
+ .rodata        0x102e0288       0x28 ./custom/lstr25/SRC/sms.o
+ .rodata        0x102e02b0       0x74 ./custom/lstr25/SRC/task1.o
+ .rodata        0x102e0324       0x2c ./custom/lstr25/SRC/task2.o
+ .rodata        0x102e0350       0x14 ./custom/lstr25/SRC/task3.o
+ .rodata        0x102e0364       0x4c ./custom/config/custom_sys_cfg.o
+                0x102e0368                SystemCfg
+ .rodata        0x102e03b0       0xcc ./custom/config/sys_config.o
+                0x102e03b0                GpioConfigTbl
+                0x102e03b4                TaskConfig
+ .rodata        0x102e047c      0x3bc E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .rodata        0x102e0838       0x16 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+ .rodata        0x102e084e        0x4 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+ .rodata        0x102e0852       0x16 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(system.o)
+
+.rodata.str1.4  0x102e0868     0x3428
+ .rodata.str1.4
+                0x102e0868       0x20 ./ril/src/ril_atResponse.o
+                                 0x24 (size before relaxing)
+ .rodata.str1.4
+                0x102e0888      0x463 ./ril/src/ril_bluetooth.o
+                                0x480 (size before relaxing)
+ *fill*         0x102e0ceb        0x1 
+ .rodata.str1.4
+                0x102e0cec      0x294 ./ril/src/ril_ftp.o
+                                0x2c0 (size before relaxing)
+ .rodata.str1.4
+                0x102e0f80       0x57 ./ril/src/ril_init.o
+                                 0x58 (size before relaxing)
+ *fill*         0x102e0fd7        0x1 
+ .rodata.str1.4
+                0x102e0fd8      0x179 ./ril/src/ril_network.o
+                                0x1b8 (size before relaxing)
+ *fill*         0x102e1151        0x3 
+ .rodata.str1.4
+                0x102e1154       0xc2 ./ril/src/ril_sms.o
+                                 0xec (size before relaxing)
+ *fill*         0x102e1216        0x2 
+ .rodata.str1.4
+                0x102e1218      0x188 ./ril/src/ril_urc.o
+                                0x194 (size before relaxing)
+ .rodata.str1.4
+                0x102e13a0       0x15 ./ril/src/ril_util.o
+                                 0x20 (size before relaxing)
+ *fill*         0x102e13b5        0x3 
+ .rodata.str1.4
+                0x102e13b8      0x1ed ./custom/lstr25/SRC/data.o
+                                0x1f4 (size before relaxing)
+ *fill*         0x102e15a5        0x3 
+ .rodata.str1.4
+                0x102e15a8      0x266 ./custom/lstr25/SRC/main.o
+                                0x268 (size before relaxing)
+ *fill*         0x102e180e        0x2 
+ .rodata.str1.4
+                0x102e1810       0x9d ./custom/lstr25/SRC/rtc.o
+                                 0xb0 (size before relaxing)
+ *fill*         0x102e18ad        0x3 
+ .rodata.str1.4
+                0x102e18b0      0x44e ./custom/lstr25/SRC/sms.o
+                                0x450 (size before relaxing)
+ *fill*         0x102e1cfe        0x2 
+ .rodata.str1.4
+                0x102e1d00       0x63 ./custom/lstr25/SRC/subtask1_gpio.o
+                                 0x64 (size before relaxing)
+ *fill*         0x102e1d63        0x1 
+ .rodata.str1.4
+                0x102e1d64      0x30b ./custom/lstr25/SRC/task1.o
+                                0x31c (size before relaxing)
+ *fill*         0x102e206f        0x1 
+ .rodata.str1.4
+                0x102e2070      0xd02 ./custom/lstr25/SRC/task2.o
+                                0xd10 (size before relaxing)
+ *fill*         0x102e2d72        0x2 
+ .rodata.str1.4
+                0x102e2d74      0x561 ./custom/lstr25/SRC/task3.o
+                                0x5b0 (size before relaxing)
+ *fill*         0x102e32d5        0x3 
+ .rodata.str1.4
+                0x102e32d8       0xdd ./custom/lstr25/SRC/task4.o
+                                 0xe0 (size before relaxing)
+ *fill*         0x102e33b5        0x3 
+ .rodata.str1.4
+                0x102e33b8      0x6d8 ./custom/fota/src/fota_ftp.o
+                                0x6ec (size before relaxing)
+ .rodata.str1.4
+                0x102e3a90      0x1f9 ./custom/fota/src/fota_main.o
+                                0x1fc (size before relaxing)
+ *fill*         0x102e3c89        0x3 
+ .rodata.str1.4
+                0x102e3c8c        0x4 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-impure.o)
+
+.rodata.str1.1  0x102e3c90      0x858
+ .rodata.str1.1
+                0x102e3c90      0x15c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .rodata.str1.1
+                0x102e3dec       0x4e E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fota.o)
+ .rodata.str1.1
+                0x102e3e3a       0x9a E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+ .rodata.str1.1
+                0x102e3ed4       0xcb E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+ .rodata.str1.1
+                0x102e3f9f       0x19 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(memory.o)
+ .rodata.str1.1
+                0x102e3fb8       0x56 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+ .rodata.str1.1
+                0x102e400e       0x1e E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+                                 0x25 (size before relaxing)
+ .rodata.str1.1
+                0x102e402c      0x151 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .rodata.str1.1
+                0x102e417d       0xa1 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+ .rodata.str1.1
+                0x102e421e       0x3d E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(system.o)
+ .rodata.str1.1
+                0x102e425b      0x140 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+ .rodata.str1.1
+                0x102e439b       0x45 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(timer.o)
+ .rodata.str1.1
+                0x102e43e0      0x108 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+
+.rel.dyn        0x102e44e8        0x0
+ .rel.iplt      0x00000000        0x0 ./ril/src/ril_alarm.o
+
+.data           0xf03d2000      0x538 load address 0x102e44e8
+                0x102e44e8                PROVIDE (__data_load, LOADADDR (.data))
+                0xf03d2000                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0xf03d2000        0x1 ./ril/src/ril_bluetooth.o
+ *fill*         0xf03d2001        0x3 
+ .data          0xf03d2004       0x20 ./ril/src/ril_init.o
+                0xf03d2004                g_LimitedCmds
+                0xf03d200c                g_InitCmds
+ .data          0xf03d2024       0x1c ./custom/lstr25/SRC/task2.o
+                0xf03d2028                st_gprsdata
+ .data          0xf03d2040       0x1c ./custom/lstr25/SRC/task3.o
+                0xf03d2040                st_ufsdata
+                0xf03d2050                PtrHandle
+                0xf03d2054                CfgHandle
+                0xf03d2058                storage
+ .data          0xf03d205c       0x14 ./custom/lstr25/SRC/task4.o
+                0xf03d205c                st_fota_config
+ .data          0xf03d2070       0x68 ./custom/fota/src/fota_main.o
+                0xf03d2070                Fota_apn
+                0xf03d20d4                g_FOTA_State
+ .data          0xf03d20d8       0x18 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_func.o)
+                0xf03d20d8                api_notsup
+ .data          0xf03d20f0        0x4 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_aux.o)
+                0xf03d20f0                g_ril_auxTaskId
+ .data          0xf03d20f4       0x10 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+ *fill*         0xf03d2104        0x4 
+ .data          0xf03d2108      0x430 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-impure.o)
+                0xf03d2108                _impure_ptr
+                0xf03d2538                PROVIDE (_edata, .)
+
+.igot.plt       0xf03d2538        0x0 load address 0x102e4a20
+ .igot.plt      0x00000000        0x0 ./ril/src/ril_alarm.o
+
+.bss            0xf03d2538     0x73cc load address 0x102e4a20
+                0xf03d2538                PROVIDE (__bss_start__, .)
+ *(.bss)
+ .bss           0xf03d2538        0x4 ./ril/src/ril_audio.o
+                0xf03d2538                cb_aud_play
+ .bss           0xf03d253c       0x94 ./ril/src/ril_bluetooth.o
+ .bss           0xf03d25d0        0x4 ./ril/src/ril_custom.o
+                0xf03d25d0                cb_rcvCoreData
+ .bss           0xf03d25d4       0x18 ./ril/src/ril_http.o
+                0xf03d25d8                http_url_addr
+                0xf03d25dc                http_url_addr_len
+                0xf03d25e0                http_post_msg
+                0xf03d25e4                http_post_msg_len
+                0xf03d25e8                callback_http_dwnld
+ .bss           0xf03d25ec        0x1 ./ril/src/ril_sms.o
+ *fill*         0xf03d25ed        0x3 
+ .bss           0xf03d25f0        0x8 ./ril/src/ril_urc.o
+                0xf03d25f0                FtpGet_IND_CB
+                0xf03d25f4                FtpPut_IND_CB
+ .bss           0xf03d25f8     0x1b54 ./custom/lstr25/SRC/data.o
+ .bss           0xf03d414c      0x200 ./custom/lstr25/SRC/main.o
+ .bss           0xf03d434c      0x200 ./custom/lstr25/SRC/rtc.o
+ .bss           0xf03d454c      0x200 ./custom/lstr25/SRC/sms.o
+ .bss           0xf03d474c      0x200 ./custom/lstr25/SRC/subtask1_gpio.o
+ .bss           0xf03d494c      0x520 ./custom/lstr25/SRC/task1.o
+ .bss           0xf03d4e6c      0x208 ./custom/lstr25/SRC/task2.o
+ .bss           0xf03d5074      0x330 ./custom/lstr25/SRC/task3.o
+ .bss           0xf03d53a4      0x3f4 ./custom/lstr25/SRC/task4.o
+ .bss           0xf03d5798       0xb0 ./custom/fota/src/fota_ftp.o
+ .bss           0xf03d5848       0x44 ./custom/fota/src/fota_main.o
+                0xf03d5848                Fota_UpgardeState
+                0xf03d584c                Fota_passwd
+                0xf03d586c                Fota_userid
+ .bss           0xf03d588c       0x60 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .bss           0xf03d58ec       0x14 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fota.o)
+ .bss           0xf03d5900       0x20 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+                0xf03d5900                m_GPIO_Init
+                0xf03d5904                m_GPIO_SetLevel
+                0xf03d5908                m_GPIO_GetLevel
+                0xf03d590c                m_GPIO_SetDirection
+                0xf03d5910                m_GPIO_GetDirection
+                0xf03d5914                m_GPIO_SetPullSelection
+                0xf03d5918                m_GPIO_GetPullSelection
+                0xf03d591c                m_GPIO_Uninit
+ .bss           0xf03d5920       0x28 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+ .bss           0xf03d5948        0x8 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(memory.o)
+ .bss           0xf03d5950       0x24 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_func.o)
+                0xf03d5950                m_StartPlayAudioStream
+                0xf03d5954                m_get_api_ptr
+                0xf03d5958                m_StopPlayAudioStream
+                0xf03d595c                m_GetRelativeTime_Counter
+                0xf03d5960                m_SecondToTicks
+                0xf03d5964                m_MillisecondToTicks
+                0xf03d5968                m_CalendarTime2LocalTime
+                0xf03d596c                m_osChangeTaskPriority
+                0xf03d5970                m_create_api_hash
+ .bss           0xf03d5974       0x10 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+                0xf03d5978                runinfo
+ .bss           0xf03d5984        0x1 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_aux.o)
+                0xf03d5984                g_ril_auxTaskReady
+ *fill*         0xf03d5985        0x3 
+ .bss           0xf03d5988      0xc34 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+ .bss           0xf03d65bc       0x4c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .bss           0xf03d6608       0x40 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+ .bss           0xf03d6648       0x14 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(system.o)
+ .bss           0xf03d665c       0x40 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+ .bss           0xf03d669c       0x10 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(timer.o)
+ .bss           0xf03d66ac       0x3c E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+                0xf03d66e8                PROVIDE (__bss_end__, .)
+ COMMON         0xf03d66e8      0x124 ./ril/src/ril_telephony.o
+                0xf03d66e8                g_comingCall
+ *fill*         0xf03d680c        0x4 
+ COMMON         0xf03d6810     0x1c6c ./custom/lstr25/SRC/data.o
+                0xf03d6810                st_rec_hdr
+                0xf03d6824                st_ram_arraytemp
+                0xf03d6c18                m_tcp_info
+                0xf03d6c30                Uart1Receive
+                0xf03d6c34                st_ram_array1
+                0xf03d70e8                m_tcp_state
+                0xf03d70ec                ufs_data_ptr
+                0xf03d70f0                st_ram_array
+                0xf03d74e0                stestvalue
+                0xf03d74e4                m_gprsCfg
+                0xf03d7594                uart
+ COMMON         0xf03d847c       0x2c ./custom/lstr25/SRC/global.o
+                0xf03d847c                st_glob_var
+                0xf03d8488                st_rtc_cclk
+                0xf03d84a0                st_globflags
+                0xf03d84a4                st_task1_cnt
+ COMMON         0xf03d84a8      0x46c ./custom/lstr25/SRC/main.o
+                0xf03d84a8                st_sys
+                0xf03d8550                st_interval
+                0xf03d8554                sms_var
+                0xf03d8900                m_task_evnt
+ COMMON         0xf03d8914       0xb0 ./custom/lstr25/SRC/task1.o
+                0xf03d8914                st_mc_info
+                0xf03d8928                st_gps_info
+                0xf03d8960                st_gps_buff
+ COMMON         0xf03d89c4      0x62e ./custom/lstr25/SRC/task2.o
+                0xf03d89c4                st_gprs_data
+                0xf03d8fa4                st_gprsconfig
+ *fill*         0xf03d8ff2        0x2 
+ COMMON         0xf03d8ff4      0x7d4 ./custom/lstr25/SRC/task3.o
+                0xf03d8ff4                st_ufs_data_buff
+ COMMON         0xf03d97c8       0x69 ./custom/lstr25/SRC/task4.o
+                0xf03d97c8                u8servpassword
+                0xf03d97dc                u8servportno
+                0xf03d97e8                u8servfilepath
+                0xf03d97fc                u8servfilename
+                0xf03d9818                u8servusername
+ *fill*         0xf03d9831        0x3 
+ COMMON         0xf03d9834       0xc0 ./custom/fota/src/fota_main.o
+                0xf03d9834                Fota_gprsCfg
+                0xf03d98e4                FotaConfig
+ COMMON         0xf03d98f4       0x10 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+                0xf03d98f4                Ql_snprintf
+                0xf03d98f8                Ql_sprintf
+                0xf03d98fc                Ql_Debug_Trace
+                0xf03d9900                Ql_sscanf
+OUTPUT(APPGS3MDM32A01.elf elf32-littlearm)
+
+.comment        0x00000000       0x30
+ .comment       0x00000000       0x30 ./ril/src/ril_atResponse.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000000       0x31 ./ril/src/ril_audio.o
+ .comment       0x00000000       0x31 ./ril/src/ril_bluetooth.o
+ .comment       0x00000000       0x31 ./ril/src/ril_custom.o
+ .comment       0x00000000       0x31 ./ril/src/ril_ftp.o
+ .comment       0x00000000       0x31 ./ril/src/ril_http.o
+ .comment       0x00000000       0x31 ./ril/src/ril_init.o
+ .comment       0x00000000       0x31 ./ril/src/ril_network.o
+ .comment       0x00000000       0x31 ./ril/src/ril_sms.o
+ .comment       0x00000000       0x31 ./ril/src/ril_telephony.o
+ .comment       0x00000000       0x31 ./ril/src/ril_urc.o
+ .comment       0x00000000       0x31 ./ril/src/ril_util.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/data.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/global.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/gpio.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/main.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/rtc.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/sms.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/subtask1_gpio.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/task1.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/task2.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/task3.o
+ .comment       0x00000000       0x31 ./custom/lstr25/SRC/task4.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_ftp.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_main.o
+ .comment       0x00000000       0x31 ./custom/config/custom_sys_cfg.o
+ .comment       0x00000000       0x31 ./custom/config/sys_config.o
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fota.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(memory.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_func.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_aux.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(system.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(timer.o)
+ .comment       0x00000000       0x31 E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+
+.ARM.attributes
+                0x00000000       0x2b
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/ril_atResponse.o
+ .ARM.attributes
+                0x0000002b       0x2b ./ril/src/ril_audio.o
+ .ARM.attributes
+                0x00000056       0x2b ./ril/src/ril_bluetooth.o
+ .ARM.attributes
+                0x00000081       0x2b ./ril/src/ril_custom.o
+ .ARM.attributes
+                0x000000ac       0x2b ./ril/src/ril_ftp.o
+ .ARM.attributes
+                0x000000d7       0x2b ./ril/src/ril_http.o
+ .ARM.attributes
+                0x00000102       0x2b ./ril/src/ril_init.o
+ .ARM.attributes
+                0x0000012d       0x2b ./ril/src/ril_network.o
+ .ARM.attributes
+                0x00000158       0x2b ./ril/src/ril_sms.o
+ .ARM.attributes
+                0x00000183       0x2b ./ril/src/ril_telephony.o
+ .ARM.attributes
+                0x000001ae       0x2b ./ril/src/ril_urc.o
+ .ARM.attributes
+                0x000001d9       0x2b ./ril/src/ril_util.o
+ .ARM.attributes
+                0x00000204       0x2b ./custom/lstr25/SRC/data.o
+ .ARM.attributes
+                0x0000022f       0x2b ./custom/lstr25/SRC/global.o
+ .ARM.attributes
+                0x0000025a       0x2b ./custom/lstr25/SRC/gpio.o
+ .ARM.attributes
+                0x00000285       0x2b ./custom/lstr25/SRC/main.o
+ .ARM.attributes
+                0x000002b0       0x2b ./custom/lstr25/SRC/rtc.o
+ .ARM.attributes
+                0x000002db       0x2b ./custom/lstr25/SRC/sms.o
+ .ARM.attributes
+                0x00000306       0x2b ./custom/lstr25/SRC/subtask1_gpio.o
+ .ARM.attributes
+                0x00000331       0x2b ./custom/lstr25/SRC/task1.o
+ .ARM.attributes
+                0x0000035c       0x2b ./custom/lstr25/SRC/task2.o
+ .ARM.attributes
+                0x00000387       0x2b ./custom/lstr25/SRC/task3.o
+ .ARM.attributes
+                0x000003b2       0x2b ./custom/lstr25/SRC/task4.o
+ .ARM.attributes
+                0x000003dd       0x2b ./custom/fota/src/fota_ftp.o
+ .ARM.attributes
+                0x00000408       0x2b ./custom/fota/src/fota_main.o
+ .ARM.attributes
+                0x00000433       0x2b ./custom/config/custom_sys_cfg.o
+ .ARM.attributes
+                0x0000045e       0x2b ./custom/config/sys_config.o
+ .ARM.attributes
+                0x00000489       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fileSys.o)
+ .ARM.attributes
+                0x000004b4       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(fota.o)
+ .ARM.attributes
+                0x000004df       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gpio.o)
+ .ARM.attributes
+                0x0000050a       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(gprs.o)
+ .ARM.attributes
+                0x00000535       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .ARM.attributes
+                0x00000560       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(memory.o)
+ .ARM.attributes
+                0x0000058b       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_func.o)
+ .ARM.attributes
+                0x000005b6       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ql_main.o)
+ .ARM.attributes
+                0x000005e1       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_aux.o)
+ .ARM.attributes
+                0x0000060c       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ril_main.o)
+ .ARM.attributes
+                0x00000637       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(socket.o)
+ .ARM.attributes
+                0x00000662       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(stdlib_func.o)
+ .ARM.attributes
+                0x0000068d       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(system.o)
+ .ARM.attributes
+                0x000006b8       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(taskMngt.o)
+ .ARM.attributes
+                0x000006e3       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(timer.o)
+ .ARM.attributes
+                0x0000070e       0x2b E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(uart.o)
+ .ARM.attributes
+                0x00000739       0x1d E:\Work_proj\LSTR25_Use\OpenCPU_SDK\libs\gcc\libapp_start.a(ocpu_init.o)
+ .ARM.attributes
+                0x00000756       0x30 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000786       0x30 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000007b6       0x30 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strstr.o)
+ .ARM.attributes
+                0x000007e6       0x30 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strtok.o)
+ .ARM.attributes
+                0x00000816       0x30 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strtok_r.o)
+ .ARM.attributes
+                0x00000846       0x30 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000876       0x30 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x000008a6       0x30 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x000008d6       0x30 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x00000906       0x18 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000091e       0x18 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000936       0x16 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000094c       0x18 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000964       0x18 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000097c       0x18 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000994       0x18 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x000009ac       0x18 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x000009c4       0x18 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x000009dc       0x18 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunssfsi.o)
+
+.debug_frame    0x00000000      0x234
+ .debug_frame   0x00000000       0x38 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000038       0x2c C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000064       0x94 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strstr.o)
+ .debug_frame   0x000000f8       0x28 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strtok.o)
+ .debug_frame   0x00000120       0x48 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strtok_r.o)
+ .debug_frame   0x00000168       0x30 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memchr.o)
+ .debug_frame   0x00000198       0x2c C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x000001c4       0x30 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-strchr.o)
+ .debug_frame   0x000001f4       0x20 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000214       0x20 C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)

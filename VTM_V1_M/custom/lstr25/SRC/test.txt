@@ -1,0 +1,23 @@
+
+
+  
+Project  Description :
+
+The project consist of total 7 tasks.(one main task with two subtasks of main task and five tasks for other process )
+  The task declaration is done in custom-->config-->custom_task_cfg.h
+  
+  main task:
+  It consist of Radio interface initialization,all tasks initialization and one second timer.
+  
+  Task1:
+  This task consist of all three UART initialization in which main UART is for debug and programming(UART1),Debug 
+  UART is for micro controller communication(UART2),Auxillary UART for GPS communication(UART3). 
+  
+  Task2:
+  This task includes all GPRS transmission process.
+  
+  Task3:
+  This task includes UFS(Flash) storage and file system.
+  
+  Task4:
+  This task consist of FOTA Process.It is control by sms.
